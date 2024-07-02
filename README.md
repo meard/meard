@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahadev. I also go by Meard</h1>
 <h3 align="center">A passionate Software Development Engineer in Test, Robotics, UAVs and UGVs. Mini Projects are my gigs and books are my peace.</h3>
-<img src="" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meard&label=Profile%20views&color=0e75b6&style=flat" alt="meard" /> </p>
 
 - 🔭 I’m currently working on **Robots and UAV simulations for SLAM and Navigation**
