@@ -1,17 +1,17 @@
 ![alt text](https://github.com/meard/meard/blob/main/my-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Mahadev. I also go by Meard</h1>
-<h3 align="center">A passionate Software Development Engineer in Test, Robotics, UAVs and UGVs. Mini Projects are my gigs and books are my peace.</h3>
+<h3 align="center">A passionate Software Development Engineer in Test, Robotics, UAVs and UGVs. <br> Mini Projects are my gigs and books are my peace.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meard&label=Profile%20views&color=0e75b6&style=flat" alt="meard" /> </p>
 
-- 🔭 I’m currently working on **Robots and UAV simulations for SLAM and Navigation**
+- 🔭 I’m working on topics like **Robots and UAV simulations for SLAM and Navigation**
 
-- 🌱 I’m currently learning **React, ThreeJS**
+- 🌱 My current learning jams are **React** and **ThreeJS**
 
-- 💬 Ask me about **ROS/ROS2, Robotics and Unmanned Vehicles**
+- 💬 Exchange ideas with me about **ROS/ROS2, Robotics and Unmanned Vehicles**
 
-- 📫 How to reach me **hansda.mahadev2@gmail.com**
+- 📫 Fancy reaching out to me. Write me  **@hansda.mahadev2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
