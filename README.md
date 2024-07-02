@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, ThreeJS**
 
-- 💬 Ask me about **ROS/ROS2, Robotics and UVs**
+- 💬 Ask me about **ROS/ROS2, Robotics and Unmanned Vehicles**
 
 - 📫 How to reach me **hansda.mahadev2@gmail.com**
 
