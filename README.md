@@ -1,7 +1,7 @@
 ![alt text](https://github.com/meard/meard/blob/main/my-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Mahadev. I also go by Meard</h1>
-<h3 align="center">A passionate Software Development Engineer in Test, Robotics, UAVs and UGVs. <br> Mini Projects are my gigs and books are my peace.</h3>
+<h3 align="center">A passionate Software Development Engineer in Test, Products, Robotics, UAVs and UGVs. <br> Mini Projects are my gigs and books are my peace.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meard&label=Profile%20views&color=0e75b6&style=flat" alt="meard" /> </p>
 
